@@ -7,8 +7,7 @@ import CadastroVideo from './pages/cadastro/Video';
 import {
   BrowserRouter,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import CadastroCategoria from './pages/cadastro/Categoria';
 
